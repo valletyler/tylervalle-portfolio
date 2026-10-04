@@ -1,9 +1,8 @@
-# Tyler Valle — Financial Analyst Portfolio
+# Tyler Valle - Financial Analyst Portfolio
 
-Personal portfolio for Tyler Valle, focused on Financial Analysis, FP&A, valuation, and financial modeling.
+Production portfolio for **Tyler Valle**, focused on Financial Analyst and FP&A opportunities.
 
-**Primary domain:** https://tylervalle.com  
-**GitHub:** https://github.com/valletyler
+**Live site:** https://tylervalle.com
 
 ## Featured work
 
@@ -11,4 +10,12 @@ Personal portfolio for Tyler Valle, focused on Financial Analysis, FP&A, valuati
 - Real estate valuation and transaction experience
 - FP&A / Power BI projects in development
 
-This repository is the Netlify deployment bridge for the live portfolio. The production experience is maintained from the portfolio application and served through the custom domain.
+## Links
+
+- [Portfolio](https://tylervalle.com)
+- [Planet Fitness case study](https://tylervalle.com/projects/planet-fitness)
+- [Resume](https://tylervalle.com/resume)
+- [GitHub profile](https://github.com/valletyler)
+- [LinkedIn](https://www.linkedin.com/in/tyler-valle-8805471a2)
+
+This repository contains the Netlify deployment configuration for the public portfolio.
